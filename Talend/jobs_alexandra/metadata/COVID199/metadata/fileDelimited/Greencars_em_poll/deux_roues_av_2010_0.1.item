@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_uObsAFS0Eeu37ulzG_jksw" name="deux_roues_av_2010" dataPackage="_uObsAVS0Eeu37ulzG_jksw" Server="Localhost 127.0.0.1" FilePath="/home/fitec/Greencars/emissions_polluantes/deux_roues_av_2010.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_uObsAVS0Eeu37ulzG_jksw" name="default" dataManager="_uObsAFS0Eeu37ulzG_jksw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_uObsAlS0Eeu37ulzG_jksw" id="_mhufAFS0Eeu37ulzG_jksw" label="metadata_deux_roues_av_2010">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zxV-UFTdEeu37ulzG_jksw" label="Annee" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zxV-UVTdEeu37ulzG_jksw" label="Essence" length="5" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zxV-UlTdEeu37ulzG_jksw" label="Diesel" length="5" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zxV-U1TdEeu37ulzG_jksw" label="Electriques" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_zxV-VFTdEeu37ulzG_jksw" label="Emissions" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_9i8nEFHDEeu6p9uSUz8_Sg" name="voiture_par_dep" dataPackage="_9i8nEVHDEeu6p9uSUz8_Sg" Server="Localhost 127.0.0.1" FilePath="/home/fitec/Greencars/parc_auto/voiture_par_dep.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_9i8nEVHDEeu6p9uSUz8_Sg" name="default" dataManager="_9i8nEFHDEeu6p9uSUz8_Sg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_9i8nElHDEeu6p9uSUz8_Sg" id="_p1e98FHDEeu6p9uSUz8_Sg" label="metadata_voiture_par_dep">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nE1HDEeu6p9uSUz8_Sg" label="Annee" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nFFHDEeu6p9uSUz8_Sg" label="Regions" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nFVHDEeu6p9uSUz8_Sg" label="Departements" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nFlHDEeu6p9uSUz8_Sg" label="Essence_Superethanol" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nF1HDEeu6p9uSUz8_Sg" label="Electricite_Essence" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nGFHDEeu6p9uSUz8_Sg" label="Gazole" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nGVHDEeu6p9uSUz8_Sg" label="Essence_GPL" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nGlHDEeu6p9uSUz8_Sg" label="Electricite" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nG1HDEeu6p9uSUz8_Sg" label="Gazole_electricite" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nHFHDEeu6p9uSUz8_Sg" label="Autres_et_non_detectes" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_9i8nHVHDEeu6p9uSUz8_Sg" label="Total" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
