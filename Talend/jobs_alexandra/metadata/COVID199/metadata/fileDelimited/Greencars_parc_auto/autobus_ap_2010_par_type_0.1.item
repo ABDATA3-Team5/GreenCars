@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_2tnScFJ9EeuB3NgXq2qafw" name="autobus_ap_2010_par_type" dataPackage="_2tnScVJ9EeuB3NgXq2qafw" Server="Localhost 127.0.0.1" FilePath="/home/fitec/Greencars/parc_auto/autobus_ap_2010_par_type.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_2tnScVJ9EeuB3NgXq2qafw" name="default" dataManager="_2tnScFJ9EeuB3NgXq2qafw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_2tnSclJ9EeuB3NgXq2qafw" id="_i-4eAFJ9EeuB3NgXq2qafw" label="metadata_autobus_ap_2010_par_type">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSc1J9EeuB3NgXq2qafw" label="Classes_de_places_assises" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSdFJ9EeuB3NgXq2qafw" label="Annee" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSdVJ9EeuB3NgXq2qafw" label="Gazole" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSdlJ9EeuB3NgXq2qafw" label="Gaz_naturel" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSd1J9EeuB3NgXq2qafw" label="Gazole_electricite" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSeFJ9EeuB3NgXq2qafw" label="Autres_hydrocarbures_gazeux_comprimes" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSeVJ9EeuB3NgXq2qafw" label="Electricite" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2tnSelJ9EeuB3NgXq2qafw" label="Autres_energies" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

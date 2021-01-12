@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_rAnqYVJ-EeuB3NgXq2qafw" name="camionnette_par_type" dataPackage="_rAoRcFJ-EeuB3NgXq2qafw" Server="Localhost 127.0.0.1" FilePath="/home/fitec/Greencars/parc_auto/camionnette_par_type.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_rAoRcFJ-EeuB3NgXq2qafw" name="default" dataManager="_rAnqYVJ-EeuB3NgXq2qafw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_rAoRcVJ-EeuB3NgXq2qafw" id="_kVufsFJ-EeuB3NgXq2qafw" label="metadata_camionnette_par_type">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rAoRclJ-EeuB3NgXq2qafw" label="Classes_de_PTAC" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rAoRc1J-EeuB3NgXq2qafw" label="Annee" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rAoRdFJ-EeuB3NgXq2qafw" label="Gazole" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rAoRdVJ-EeuB3NgXq2qafw" label="Essence" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rAoRdlJ-EeuB3NgXq2qafw" label="Electricite" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rAoRd1J-EeuB3NgXq2qafw" label="Essence_GPL" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rAoReFJ-EeuB3NgXq2qafw" label="Autres_et_non_determinees" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
