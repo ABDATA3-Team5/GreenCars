@@ -78,6 +78,12 @@ def recup_tab_par_emissions(dataset):
             tab[emission]=dataset[deb:fin]
             tab[emission].reset_index(drop=True,inplace=True)
             tab[emission]=tab[emission].replace({',': '.'}, regex=True)
+            #Passage de tous les int en float
+            temp=pd.DataFrame(tab[emission])
+            temp_col_em = temp['Emissions']
+            temp_autres_col=temp.loc[:, temp.columns != 'Emissions'].astype(float)
+            temp= pd.concat([temp_col_em,temp_autres_col], axis=1)
+            tab[emission]=temp
             continue
     return(tab)
 
@@ -90,7 +96,7 @@ emissions_poll_ap_2010_em=recup_tab_par_emissions(emissions_poll_ap_2010)
 emissions_poll_av_2010_em=recup_tab_par_emissions(emissions_poll_av_2010)
 
 
-# In[10]:
+# In[12]:
 
 
 # Pour un tableau émission donné, récupère un dictionnaire des sous tableaux par catégorie de véhicule
@@ -124,7 +130,7 @@ def recup_sub_tab_par_cat_vehicule(tab_em,tab_colnames,emission):
     return (sub_tab_transfo)
 
 
-# In[11]:
+# In[13]:
 
 
 emissions_poll_ap_2010_em_veh={}
@@ -136,7 +142,7 @@ for em in emissions_poll_av_2010_em:
     emissions_poll_av_2010_em_veh[em]=recup_sub_tab_par_cat_vehicule(emissions_poll_av_2010_em[em],col_names_av_2010_temp,em)
 
 
-# In[14]:
+# In[16]:
 
 
 #Concatene toutes les émissions par catégorie de véhicule 
@@ -152,14 +158,15 @@ def concat_tab_em_veh (tab_em_veh):
     return(tab_concat)
 
 
-# In[15]:
+# In[17]:
 
 
 emissions_poll_ap_2010_merged= concat_tab_em_veh(emissions_poll_ap_2010_em_veh)
 emissions_poll_av_2010_merged= concat_tab_em_veh(emissions_poll_av_2010_em_veh)
 
 
-# In[17]:
+
+# In[19]:
 
 
 def ecriture_fichiers_transfo (tab_merged,years) :
@@ -173,7 +180,7 @@ def ecriture_fichiers_transfo (tab_merged,years) :
         tab_merged[cat].to_csv(name_csv,sep=';', index = False)
 
 
-# In[18]:
+# In[20]:
 
 
 ecriture_fichiers_transfo(emissions_poll_ap_2010_merged,"_ap_2010")
