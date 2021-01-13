@@ -1,0 +1,201 @@
+Classes de PTAC;Année;Fuel;Nb_véhicules
+  Moins de 1,5 tonnes;2010;Gazole;765442
+  1,5 à 2,5 tonnes;2010;Gazole;2959183
+  2,6 à 3,5 tonnes;2010;Gazole;2084076
+  Non déterminée;2010;Gazole;509
+  Moins de 1,5 tonnes;2011;Gazole;663230
+  1,5 à 2,5 tonnes;2011;Gazole;3028521
+  2,6 à 3,5 tonnes;2011;Gazole;2138589
+  Non déterminée;2011;Gazole;600
+  Moins de 1,5 tonnes;2012;Gazole;560859
+  1,5 à 2,5 tonnes;2012;Gazole;3089880
+  2,6 à 3,5 tonnes;2012;Gazole;2216306
+  Non déterminée;2012;Gazole;724
+  Moins de 1,5 tonnes;2013;Gazole;475644
+  1,5 à 2,5 tonnes;2013;Gazole;3144247
+  2,6 à 3,5 tonnes;2013;Gazole;2296023
+  Non déterminée;2013;Gazole;757
+  Moins de 1,5 tonnes;2014;Gazole;405854
+  1,5 à 2,5 tonnes;2014;Gazole;3219196
+  2,6 à 3,5 tonnes;2014;Gazole;2388665
+  Non déterminée;2014;Gazole;786
+  Moins de 1,5 tonnes;2015;Gazole;329971
+  1,5 à 2,5 tonnes;2015;Gazole;3268697
+  2,6 à 3,5 tonnes;2015;Gazole;2465951
+  Non déterminée;2015;Gazole;770
+  Moins de 1,5 tonnes;2016;Gazole;252910
+  1,5 à 2,5 tonnes;2016;Gazole;3263293
+  2,6 à 3,5 tonnes;2016;Gazole;2544290
+  Non déterminée;2016;Gazole;770
+  Moins de 1,5 tonnes;2017;Gazole;186548
+  1,5 à 2,5 tonnes;2017;Gazole;3195817
+  2,6 à 3,5 tonnes;2017;Gazole;2640245
+  Non déterminée;2017;Gazole;853
+  Moins de 1,5 tonnes;2018;Gazole;134607
+  1,5 à 2,5 tonnes;2018;Gazole;3131906
+  2,6 à 3,5 tonnes;2018;Gazole;2759825
+  Non déterminée;2018;Gazole;903
+  Moins de 1,5 tonnes;2019;Gazole;99272
+  1,5 à 2,5 tonnes;2019;Gazole;3028853
+  2,6 à 3,5 tonnes;2019;Gazole;2881994
+  Non déterminée;2019;Gazole;924
+  Moins de 1,5 tonnes;2010;Essence;219360
+  1,5 à 2,5 tonnes;2010;Essence;84294
+  2,6 à 3,5 tonnes;2010;Essence;13203
+  Non déterminée;2010;Essence;202
+  Moins de 1,5 tonnes;2011;Essence;166309
+  1,5 à 2,5 tonnes;2011;Essence;80463
+  2,6 à 3,5 tonnes;2011;Essence;10690
+  Non déterminée;2011;Essence;190
+  Moins de 1,5 tonnes;2012;Essence;129962
+  1,5 à 2,5 tonnes;2012;Essence;78203
+  2,6 à 3,5 tonnes;2012;Essence;9109
+  Non déterminée;2012;Essence;174
+  Moins de 1,5 tonnes;2013;Essence;103382
+  1,5 à 2,5 tonnes;2013;Essence;76307
+  2,6 à 3,5 tonnes;2013;Essence;7957
+  Non déterminée;2013;Essence;161
+  Moins de 1,5 tonnes;2014;Essence;88852
+  1,5 à 2,5 tonnes;2014;Essence;76507
+  2,6 à 3,5 tonnes;2014;Essence;7308
+  Non déterminée;2014;Essence;150
+  Moins de 1,5 tonnes;2015;Essence;74314
+  1,5 à 2,5 tonnes;2015;Essence;76063
+  2,6 à 3,5 tonnes;2015;Essence;6764
+  Non déterminée;2015;Essence;138
+  Moins de 1,5 tonnes;2016;Essence;61499
+  1,5 à 2,5 tonnes;2016;Essence;76225
+  2,6 à 3,5 tonnes;2016;Essence;6337
+  Non déterminée;2016;Essence;135
+  Moins de 1,5 tonnes;2017;Essence;46868
+  1,5 à 2,5 tonnes;2017;Essence;73589
+  2,6 à 3,5 tonnes;2017;Essence;5712
+  Non déterminée;2017;Essence;141
+  Moins de 1,5 tonnes;2018;Essence;37550
+  1,5 à 2,5 tonnes;2018;Essence;72180
+  2,6 à 3,5 tonnes;2018;Essence;5342
+  Non déterminée;2018;Essence;138
+  Moins de 1,5 tonnes;2019;Essence;31208
+  1,5 à 2,5 tonnes;2019;Essence;70173
+  2,6 à 3,5 tonnes;2019;Essence;5272
+  Non déterminée;2019;Essence;124
+  Moins de 1,5 tonnes;2010;Electricité;1320
+  1,5 à 2,5 tonnes;2010;Electricité;3399
+  2,6 à 3,5 tonnes;2010;Electricité;51
+  Non déterminée;2010;Electricité;0
+  Moins de 1,5 tonnes;2011;Electricité;1257
+  1,5 à 2,5 tonnes;2011;Electricité;3537
+  2,6 à 3,5 tonnes;2011;Electricité;40
+  Non déterminée;2011;Electricité;0
+  Moins de 1,5 tonnes;2012;Electricité;1233
+  1,5 à 2,5 tonnes;2012;Electricité;4463
+  2,6 à 3,5 tonnes;2012;Electricité;115
+  Non déterminée;2012;Electricité;2
+  Moins de 1,5 tonnes;2013;Electricité;1395
+  1,5 à 2,5 tonnes;2013;Electricité;7408
+  2,6 à 3,5 tonnes;2013;Electricité;135
+  Non déterminée;2013;Electricité;2
+  Moins de 1,5 tonnes;2014;Electricité;1464
+  1,5 à 2,5 tonnes;2014;Electricité;12135
+  2,6 à 3,5 tonnes;2014;Electricité;149
+  Non déterminée;2014;Electricité;2
+  Moins de 1,5 tonnes;2015;Electricité;1904
+  1,5 à 2,5 tonnes;2015;Electricité;15681
+  2,6 à 3,5 tonnes;2015;Electricité;176
+  Non déterminée;2015;Electricité;5
+  Moins de 1,5 tonnes;2016;Electricité;2249
+  1,5 à 2,5 tonnes;2016;Electricité;19702
+  2,6 à 3,5 tonnes;2016;Electricité;182
+  Non déterminée;2016;Electricité;5
+  Moins de 1,5 tonnes;2017;Electricité;2647
+  1,5 à 2,5 tonnes;2017;Electricité;23576
+  2,6 à 3,5 tonnes;2017;Electricité;201
+  Non déterminée;2017;Electricité;5
+  Moins de 1,5 tonnes;2018;Electricité;2686
+  1,5 à 2,5 tonnes;2018;Electricité;27978
+  2,6 à 3,5 tonnes;2018;Electricité;222
+  Non déterminée;2018;Electricité;5
+  Moins de 1,5 tonnes;2019;Electricité;2659
+  1,5 à 2,5 tonnes;2019;Electricité;33621
+  2,6 à 3,5 tonnes;2019;Electricité;337
+  Non déterminée;2019;Electricité;5
+  Moins de 1,5 tonnes;2010;Essence-GPL;5058
+  1,5 à 2,5 tonnes;2010;Essence-GPL;14834
+  2,6 à 3,5 tonnes;2010;Essence-GPL;2276
+  Non déterminée;2010;Essence-GPL;5
+  Moins de 1,5 tonnes;2011;Essence-GPL;4540
+  1,5 à 2,5 tonnes;2011;Essence-GPL;14554
+  2,6 à 3,5 tonnes;2011;Essence-GPL;2358
+  Non déterminée;2011;Essence-GPL;7
+  Moins de 1,5 tonnes;2012;Essence-GPL;4116
+  1,5 à 2,5 tonnes;2012;Essence-GPL;14044
+  2,6 à 3,5 tonnes;2012;Essence-GPL;2445
+  Non déterminée;2012;Essence-GPL;9
+  Moins de 1,5 tonnes;2013;Essence-GPL;3650
+  1,5 à 2,5 tonnes;2013;Essence-GPL;13511
+  2,6 à 3,5 tonnes;2013;Essence-GPL;2501
+  Non déterminée;2013;Essence-GPL;9
+  Moins de 1,5 tonnes;2014;Essence-GPL;3399
+  1,5 à 2,5 tonnes;2014;Essence-GPL;13152
+  2,6 à 3,5 tonnes;2014;Essence-GPL;2612
+  Non déterminée;2014;Essence-GPL;13
+  Moins de 1,5 tonnes;2015;Essence-GPL;3208
+  1,5 à 2,5 tonnes;2015;Essence-GPL;12873
+  2,6 à 3,5 tonnes;2015;Essence-GPL;2797
+  Non déterminée;2015;Essence-GPL;14
+  Moins de 1,5 tonnes;2016;Essence-GPL;3075
+  1,5 à 2,5 tonnes;2016;Essence-GPL;12558
+  2,6 à 3,5 tonnes;2016;Essence-GPL;2951
+  Non déterminée;2016;Essence-GPL;16
+  Moins de 1,5 tonnes;2017;Essence-GPL;2848
+  1,5 à 2,5 tonnes;2017;Essence-GPL;12080
+  2,6 à 3,5 tonnes;2017;Essence-GPL;3004
+  Non déterminée;2017;Essence-GPL;18
+  Moins de 1,5 tonnes;2018;Essence-GPL;2322
+  1,5 à 2,5 tonnes;2018;Essence-GPL;11434
+  2,6 à 3,5 tonnes;2018;Essence-GPL;2988
+  Non déterminée;2018;Essence-GPL;19
+  Moins de 1,5 tonnes;2019;Essence-GPL;1771
+  1,5 à 2,5 tonnes;2019;Essence-GPL;9470
+  2,6 à 3,5 tonnes;2019;Essence-GPL;2959
+  Non déterminée;2019;Essence-GPL;18
+  Moins de 1,5 tonnes;2010;Autres et non  déterminées;5629
+  1,5 à 2,5 tonnes;2010;Autres et non  déterminées;5957
+  2,6 à 3,5 tonnes;2010;Autres et non  déterminées;3174
+  Non déterminée;2010;Autres et non  déterminées;32
+  Moins de 1,5 tonnes;2011;Autres et non  déterminées;4785
+  1,5 à 2,5 tonnes;2011;Autres et non  déterminées;5803
+  2,6 à 3,5 tonnes;2011;Autres et non  déterminées;3280
+  Non déterminée;2011;Autres et non  déterminées;30
+  Moins de 1,5 tonnes;2012;Autres et non  déterminées;4064
+  1,5 à 2,5 tonnes;2012;Autres et non  déterminées;5712
+  2,6 à 3,5 tonnes;2012;Autres et non  déterminées;3171
+  Non déterminée;2012;Autres et non  déterminées;28
+  Moins de 1,5 tonnes;2013;Autres et non  déterminées;3488
+  1,5 à 2,5 tonnes;2013;Autres et non  déterminées;5672
+  2,6 à 3,5 tonnes;2013;Autres et non  déterminées;3050
+  Non déterminée;2013;Autres et non  déterminées;26
+  Moins de 1,5 tonnes;2014;Autres et non  déterminées;3028
+  1,5 à 2,5 tonnes;2014;Autres et non  déterminées;5642
+  2,6 à 3,5 tonnes;2014;Autres et non  déterminées;2872
+  Non déterminée;2014;Autres et non  déterminées;25
+  Moins de 1,5 tonnes;2015;Autres et non  déterminées;2737
+  1,5 à 2,5 tonnes;2015;Autres et non  déterminées;5784
+  2,6 à 3,5 tonnes;2015;Autres et non  déterminées;2740
+  Non déterminée;2015;Autres et non  déterminées;25
+  Moins de 1,5 tonnes;2016;Autres et non  déterminées;2532
+  1,5 à 2,5 tonnes;2016;Autres et non  déterminées;5845
+  2,6 à 3,5 tonnes;2016;Autres et non  déterminées;2555
+  Non déterminée;2016;Autres et non  déterminées;22
+  Moins de 1,5 tonnes;2017;Autres et non  déterminées;2354
+  1,5 à 2,5 tonnes;2017;Autres et non  déterminées;5822
+  2,6 à 3,5 tonnes;2017;Autres et non  déterminées;2579
+  Non déterminée;2017;Autres et non  déterminées;32
+  Moins de 1,5 tonnes;2018;Autres et non  déterminées;2127
+  1,5 à 2,5 tonnes;2018;Autres et non  déterminées;5960
+  2,6 à 3,5 tonnes;2018;Autres et non  déterminées;2801
+  Non déterminée;2018;Autres et non  déterminées;42
+  Moins de 1,5 tonnes;2019;Autres et non  déterminées;1953
+  1,5 à 2,5 tonnes;2019;Autres et non  déterminées;6073
+  2,6 à 3,5 tonnes;2019;Autres et non  déterminées;3038
+  Non déterminée;2019;Autres et non  déterminées;50

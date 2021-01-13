@@ -1,0 +1,351 @@
+Classes de PTAC;Année;Fuel;Nb_véhicules
+  3,6 à 6,0 tonnes;2010;Gazole;9921
+  6,1 à 10,9 tonnes;2010;Gazole;52855
+  11,0 à 19,0 tonnes;2010;Gazole;197092
+  19,1 à  21,0 tonnes;2010;Gazole;4135
+  21,1 à 26,0 tonnes;2010;Gazole;70731
+  26,1 tonnes et plus;2010;Gazole;26316
+  Non déterminée;2010;Gazole;4552
+  3,6 à 6,0 tonnes;2011;Gazole;9169
+  6,1 à 10,9 tonnes;2011;Gazole;48917
+  11,0 à 19,0 tonnes;2011;Gazole;189435
+  19,1 à  21,0 tonnes;2011;Gazole;5455
+  21,1 à 26,0 tonnes;2011;Gazole;68494
+  26,1 tonnes et plus;2011;Gazole;29052
+  Non déterminée;2011;Gazole;3742
+  3,6 à 6,0 tonnes;2012;Gazole;8505
+  6,1 à 10,9 tonnes;2012;Gazole;45795
+  11,0 à 19,0 tonnes;2012;Gazole;185389
+  19,1 à  21,0 tonnes;2012;Gazole;7187
+  21,1 à 26,0 tonnes;2012;Gazole;67432
+  26,1 tonnes et plus;2012;Gazole;33287
+  Non déterminée;2012;Gazole;3089
+  3,6 à 6,0 tonnes;2013;Gazole;8031
+  6,1 à 10,9 tonnes;2013;Gazole;42929
+  11,0 à 19,0 tonnes;2013;Gazole;181698
+  19,1 à  21,0 tonnes;2013;Gazole;8357
+  21,1 à 26,0 tonnes;2013;Gazole;67049
+  26,1 tonnes et plus;2013;Gazole;36816
+  Non déterminée;2013;Gazole;2738
+  3,6 à 6,0 tonnes;2014;Gazole;7768
+  6,1 à 10,9 tonnes;2014;Gazole;41051
+  11,0 à 19,0 tonnes;2014;Gazole;178922
+  19,1 à  21,0 tonnes;2014;Gazole;9288
+  21,1 à 26,0 tonnes;2014;Gazole;67563
+  26,1 tonnes et plus;2014;Gazole;40174
+  Non déterminée;2014;Gazole;2448
+  3,6 à 6,0 tonnes;2015;Gazole;7402
+  6,1 à 10,9 tonnes;2015;Gazole;38980
+  11,0 à 19,0 tonnes;2015;Gazole;174422
+  19,1 à  21,0 tonnes;2015;Gazole;9667
+  21,1 à 26,0 tonnes;2015;Gazole;67775
+  26,1 tonnes et plus;2015;Gazole;42360
+  Non déterminée;2015;Gazole;2190
+  3,6 à 6,0 tonnes;2016;Gazole;7025
+  6,1 à 10,9 tonnes;2016;Gazole;36682
+  11,0 à 19,0 tonnes;2016;Gazole;169591
+  19,1 à  21,0 tonnes;2016;Gazole;9613
+  21,1 à 26,0 tonnes;2016;Gazole;67662
+  26,1 tonnes et plus;2016;Gazole;43345
+  Non déterminée;2016;Gazole;1908
+  3,6 à 6,0 tonnes;2017;Gazole;6746
+  6,1 à 10,9 tonnes;2017;Gazole;34729
+  11,0 à 19,0 tonnes;2017;Gazole;166772
+  19,1 à  21,0 tonnes;2017;Gazole;9339
+  21,1 à 26,0 tonnes;2017;Gazole;68521
+  26,1 tonnes et plus;2017;Gazole;45075
+  Non déterminée;2017;Gazole;1670
+  3,6 à 6,0 tonnes;2018;Gazole;6482
+  6,1 à 10,9 tonnes;2018;Gazole;33099
+  11,0 à 19,0 tonnes;2018;Gazole;165489
+  19,1 à  21,0 tonnes;2018;Gazole;9156
+  21,1 à 26,0 tonnes;2018;Gazole;70467
+  26,1 tonnes et plus;2018;Gazole;47851
+  Non déterminée;2018;Gazole;1434
+  3,6 à 6,0 tonnes;2019;Gazole;6226
+  6,1 à 10,9 tonnes;2019;Gazole;31527
+  11,0 à 19,0 tonnes;2019;Gazole;163362
+  19,1 à  21,0 tonnes;2019;Gazole;8687
+  21,1 à 26,0 tonnes;2019;Gazole;72430
+  26,1 tonnes et plus;2019;Gazole;51072
+  Non déterminée;2019;Gazole;1198
+  3,6 à 6,0 tonnes;2010;Essence;81
+  6,1 à 10,9 tonnes;2010;Essence;37
+  11,0 à 19,0 tonnes;2010;Essence;104
+  19,1 à  21,0 tonnes;2010;Essence;0
+  21,1 à 26,0 tonnes;2010;Essence;0
+  26,1 tonnes et plus;2010;Essence;21
+  Non déterminée;2010;Essence;71
+  3,6 à 6,0 tonnes;2011;Essence;77
+  6,1 à 10,9 tonnes;2011;Essence;34
+  11,0 à 19,0 tonnes;2011;Essence;88
+  19,1 à  21,0 tonnes;2011;Essence;1
+  21,1 à 26,0 tonnes;2011;Essence;0
+  26,1 tonnes et plus;2011;Essence;18
+  Non déterminée;2011;Essence;51
+  3,6 à 6,0 tonnes;2012;Essence;73
+  6,1 à 10,9 tonnes;2012;Essence;32
+  11,0 à 19,0 tonnes;2012;Essence;83
+  19,1 à  21,0 tonnes;2012;Essence;1
+  21,1 à 26,0 tonnes;2012;Essence;0
+  26,1 tonnes et plus;2012;Essence;19
+  Non déterminée;2012;Essence;43
+  3,6 à 6,0 tonnes;2013;Essence;70
+  6,1 à 10,9 tonnes;2013;Essence;25
+  11,0 à 19,0 tonnes;2013;Essence;75
+  19,1 à  21,0 tonnes;2013;Essence;1
+  21,1 à 26,0 tonnes;2013;Essence;0
+  26,1 tonnes et plus;2013;Essence;17
+  Non déterminée;2013;Essence;37
+  3,6 à 6,0 tonnes;2014;Essence;67
+  6,1 à 10,9 tonnes;2014;Essence;24
+  11,0 à 19,0 tonnes;2014;Essence;61
+  19,1 à  21,0 tonnes;2014;Essence;1
+  21,1 à 26,0 tonnes;2014;Essence;0
+  26,1 tonnes et plus;2014;Essence;16
+  Non déterminée;2014;Essence;36
+  3,6 à 6,0 tonnes;2015;Essence;61
+  6,1 à 10,9 tonnes;2015;Essence;23
+  11,0 à 19,0 tonnes;2015;Essence;55
+  19,1 à  21,0 tonnes;2015;Essence;1
+  21,1 à 26,0 tonnes;2015;Essence;0
+  26,1 tonnes et plus;2015;Essence;16
+  Non déterminée;2015;Essence;30
+  3,6 à 6,0 tonnes;2016;Essence;55
+  6,1 à 10,9 tonnes;2016;Essence;22
+  11,0 à 19,0 tonnes;2016;Essence;43
+  19,1 à  21,0 tonnes;2016;Essence;1
+  21,1 à 26,0 tonnes;2016;Essence;1
+  26,1 tonnes et plus;2016;Essence;12
+  Non déterminée;2016;Essence;23
+  3,6 à 6,0 tonnes;2017;Essence;44
+  6,1 à 10,9 tonnes;2017;Essence;23
+  11,0 à 19,0 tonnes;2017;Essence;37
+  19,1 à  21,0 tonnes;2017;Essence;1
+  21,1 à 26,0 tonnes;2017;Essence;1
+  26,1 tonnes et plus;2017;Essence;10
+  Non déterminée;2017;Essence;21
+  3,6 à 6,0 tonnes;2018;Essence;39
+  6,1 à 10,9 tonnes;2018;Essence;17
+  11,0 à 19,0 tonnes;2018;Essence;29
+  19,1 à  21,0 tonnes;2018;Essence;1
+  21,1 à 26,0 tonnes;2018;Essence;2
+  26,1 tonnes et plus;2018;Essence;6
+  Non déterminée;2018;Essence;18
+  3,6 à 6,0 tonnes;2019;Essence;36
+  6,1 à 10,9 tonnes;2019;Essence;16
+  11,0 à 19,0 tonnes;2019;Essence;24
+  19,1 à  21,0 tonnes;2019;Essence;1
+  21,1 à 26,0 tonnes;2019;Essence;1
+  26,1 tonnes et plus;2019;Essence;4
+  Non déterminée;2019;Essence;11
+  3,6 à 6,0 tonnes;2010;Electricité;67
+  6,1 à 10,9 tonnes;2010;Electricité;0
+  11,0 à 19,0 tonnes;2010;Electricité;0
+  19,1 à  21,0 tonnes;2010;Electricité;0
+  21,1 à 26,0 tonnes;2010;Electricité;0
+  26,1 tonnes et plus;2010;Electricité;0
+  Non déterminée;2010;Electricité;0
+  3,6 à 6,0 tonnes;2011;Electricité;94
+  6,1 à 10,9 tonnes;2011;Electricité;1
+  11,0 à 19,0 tonnes;2011;Electricité;1
+  19,1 à  21,0 tonnes;2011;Electricité;0
+  21,1 à 26,0 tonnes;2011;Electricité;0
+  26,1 tonnes et plus;2011;Electricité;0
+  Non déterminée;2011;Electricité;0
+  3,6 à 6,0 tonnes;2012;Electricité;102
+  6,1 à 10,9 tonnes;2012;Electricité;1
+  11,0 à 19,0 tonnes;2012;Electricité;1
+  19,1 à  21,0 tonnes;2012;Electricité;0
+  21,1 à 26,0 tonnes;2012;Electricité;0
+  26,1 tonnes et plus;2012;Electricité;0
+  Non déterminée;2012;Electricité;0
+  3,6 à 6,0 tonnes;2013;Electricité;106
+  6,1 à 10,9 tonnes;2013;Electricité;1
+  11,0 à 19,0 tonnes;2013;Electricité;4
+  19,1 à  21,0 tonnes;2013;Electricité;0
+  21,1 à 26,0 tonnes;2013;Electricité;0
+  26,1 tonnes et plus;2013;Electricité;0
+  Non déterminée;2013;Electricité;0
+  3,6 à 6,0 tonnes;2014;Electricité;77
+  6,1 à 10,9 tonnes;2014;Electricité;2
+  11,0 à 19,0 tonnes;2014;Electricité;5
+  19,1 à  21,0 tonnes;2014;Electricité;0
+  21,1 à 26,0 tonnes;2014;Electricité;0
+  26,1 tonnes et plus;2014;Electricité;0
+  Non déterminée;2014;Electricité;0
+  3,6 à 6,0 tonnes;2015;Electricité;88
+  6,1 à 10,9 tonnes;2015;Electricité;3
+  11,0 à 19,0 tonnes;2015;Electricité;4
+  19,1 à  21,0 tonnes;2015;Electricité;0
+  21,1 à 26,0 tonnes;2015;Electricité;0
+  26,1 tonnes et plus;2015;Electricité;0
+  Non déterminée;2015;Electricité;0
+  3,6 à 6,0 tonnes;2016;Electricité;88
+  6,1 à 10,9 tonnes;2016;Electricité;3
+  11,0 à 19,0 tonnes;2016;Electricité;4
+  19,1 à  21,0 tonnes;2016;Electricité;0
+  21,1 à 26,0 tonnes;2016;Electricité;0
+  26,1 tonnes et plus;2016;Electricité;0
+  Non déterminée;2016;Electricité;0
+  3,6 à 6,0 tonnes;2017;Electricité;83
+  6,1 à 10,9 tonnes;2017;Electricité;3
+  11,0 à 19,0 tonnes;2017;Electricité;4
+  19,1 à  21,0 tonnes;2017;Electricité;0
+  21,1 à 26,0 tonnes;2017;Electricité;0
+  26,1 tonnes et plus;2017;Electricité;0
+  Non déterminée;2017;Electricité;0
+  3,6 à 6,0 tonnes;2018;Electricité;84
+  6,1 à 10,9 tonnes;2018;Electricité;6
+  11,0 à 19,0 tonnes;2018;Electricité;4
+  19,1 à  21,0 tonnes;2018;Electricité;0
+  21,1 à 26,0 tonnes;2018;Electricité;0
+  26,1 tonnes et plus;2018;Electricité;0
+  Non déterminée;2018;Electricité;0
+  3,6 à 6,0 tonnes;2019;Electricité;85
+  6,1 à 10,9 tonnes;2019;Electricité;6
+  11,0 à 19,0 tonnes;2019;Electricité;6
+  19,1 à  21,0 tonnes;2019;Electricité;0
+  21,1 à 26,0 tonnes;2019;Electricité;0
+  26,1 tonnes et plus;2019;Electricité;0
+  Non déterminée;2019;Electricité;0
+  3,6 à 6,0 tonnes;2010;Essence-GPL;1
+  6,1 à 10,9 tonnes;2010;Essence-GPL;1
+  11,0 à 19,0 tonnes;2010;Essence-GPL;0
+  19,1 à  21,0 tonnes;2010;Essence-GPL;0
+  21,1 à 26,0 tonnes;2010;Essence-GPL;0
+  26,1 tonnes et plus;2010;Essence-GPL;1
+  Non déterminée;2010;Essence-GPL;0
+  3,6 à 6,0 tonnes;2011;Essence-GPL;1
+  6,1 à 10,9 tonnes;2011;Essence-GPL;1
+  11,0 à 19,0 tonnes;2011;Essence-GPL;1
+  19,1 à  21,0 tonnes;2011;Essence-GPL;0
+  21,1 à 26,0 tonnes;2011;Essence-GPL;0
+  26,1 tonnes et plus;2011;Essence-GPL;1
+  Non déterminée;2011;Essence-GPL;0
+  3,6 à 6,0 tonnes;2012;Essence-GPL;2
+  6,1 à 10,9 tonnes;2012;Essence-GPL;1
+  11,0 à 19,0 tonnes;2012;Essence-GPL;2
+  19,1 à  21,0 tonnes;2012;Essence-GPL;0
+  21,1 à 26,0 tonnes;2012;Essence-GPL;0
+  26,1 tonnes et plus;2012;Essence-GPL;1
+  Non déterminée;2012;Essence-GPL;0
+  3,6 à 6,0 tonnes;2013;Essence-GPL;2
+  6,1 à 10,9 tonnes;2013;Essence-GPL;1
+  11,0 à 19,0 tonnes;2013;Essence-GPL;3
+  19,1 à  21,0 tonnes;2013;Essence-GPL;0
+  21,1 à 26,0 tonnes;2013;Essence-GPL;0
+  26,1 tonnes et plus;2013;Essence-GPL;1
+  Non déterminée;2013;Essence-GPL;0
+  3,6 à 6,0 tonnes;2014;Essence-GPL;2
+  6,1 à 10,9 tonnes;2014;Essence-GPL;1
+  11,0 à 19,0 tonnes;2014;Essence-GPL;2
+  19,1 à  21,0 tonnes;2014;Essence-GPL;0
+  21,1 à 26,0 tonnes;2014;Essence-GPL;0
+  26,1 tonnes et plus;2014;Essence-GPL;1
+  Non déterminée;2014;Essence-GPL;0
+  3,6 à 6,0 tonnes;2015;Essence-GPL;3
+  6,1 à 10,9 tonnes;2015;Essence-GPL;1
+  11,0 à 19,0 tonnes;2015;Essence-GPL;2
+  19,1 à  21,0 tonnes;2015;Essence-GPL;0
+  21,1 à 26,0 tonnes;2015;Essence-GPL;0
+  26,1 tonnes et plus;2015;Essence-GPL;1
+  Non déterminée;2015;Essence-GPL;0
+  3,6 à 6,0 tonnes;2016;Essence-GPL;3
+  6,1 à 10,9 tonnes;2016;Essence-GPL;0
+  11,0 à 19,0 tonnes;2016;Essence-GPL;2
+  19,1 à  21,0 tonnes;2016;Essence-GPL;0
+  21,1 à 26,0 tonnes;2016;Essence-GPL;0
+  26,1 tonnes et plus;2016;Essence-GPL;1
+  Non déterminée;2016;Essence-GPL;0
+  3,6 à 6,0 tonnes;2017;Essence-GPL;7
+  6,1 à 10,9 tonnes;2017;Essence-GPL;0
+  11,0 à 19,0 tonnes;2017;Essence-GPL;2
+  19,1 à  21,0 tonnes;2017;Essence-GPL;0
+  21,1 à 26,0 tonnes;2017;Essence-GPL;0
+  26,1 tonnes et plus;2017;Essence-GPL;0
+  Non déterminée;2017;Essence-GPL;0
+  3,6 à 6,0 tonnes;2018;Essence-GPL;7
+  6,1 à 10,9 tonnes;2018;Essence-GPL;2
+  11,0 à 19,0 tonnes;2018;Essence-GPL;2
+  19,1 à  21,0 tonnes;2018;Essence-GPL;0
+  21,1 à 26,0 tonnes;2018;Essence-GPL;0
+  26,1 tonnes et plus;2018;Essence-GPL;1
+  Non déterminée;2018;Essence-GPL;0
+  3,6 à 6,0 tonnes;2019;Essence-GPL;7
+  6,1 à 10,9 tonnes;2019;Essence-GPL;2
+  11,0 à 19,0 tonnes;2019;Essence-GPL;2
+  19,1 à  21,0 tonnes;2019;Essence-GPL;0
+  21,1 à 26,0 tonnes;2019;Essence-GPL;0
+  26,1 tonnes et plus;2019;Essence-GPL;1
+  Non déterminée;2019;Essence-GPL;0
+  3,6 à 6,0 tonnes;2010;Autres et non  déterminées;198
+  6,1 à 10,9 tonnes;2010;Autres et non  déterminées;128
+  11,0 à 19,0 tonnes;2010;Autres et non  déterminées;236
+  19,1 à  21,0 tonnes;2010;Autres et non  déterminées;20
+  21,1 à 26,0 tonnes;2010;Autres et non  déterminées;157
+  26,1 tonnes et plus;2010;Autres et non  déterminées;433
+  Non déterminée;2010;Autres et non  déterminées;609
+  3,6 à 6,0 tonnes;2011;Autres et non  déterminées;185
+  6,1 à 10,9 tonnes;2011;Autres et non  déterminées;113
+  11,0 à 19,0 tonnes;2011;Autres et non  déterminées;202
+  19,1 à  21,0 tonnes;2011;Autres et non  déterminées;16
+  21,1 à 26,0 tonnes;2011;Autres et non  déterminées;133
+  26,1 tonnes et plus;2011;Autres et non  déterminées;412
+  Non déterminée;2011;Autres et non  déterminées;457
+  3,6 à 6,0 tonnes;2012;Autres et non  déterminées;167
+  6,1 à 10,9 tonnes;2012;Autres et non  déterminées;101
+  11,0 à 19,0 tonnes;2012;Autres et non  déterminées;194
+  19,1 à  21,0 tonnes;2012;Autres et non  déterminées;15
+  21,1 à 26,0 tonnes;2012;Autres et non  déterminées;122
+  26,1 tonnes et plus;2012;Autres et non  déterminées;397
+  Non déterminée;2012;Autres et non  déterminées;351
+  3,6 à 6,0 tonnes;2013;Autres et non  déterminées;153
+  6,1 à 10,9 tonnes;2013;Autres et non  déterminées;88
+  11,0 à 19,0 tonnes;2013;Autres et non  déterminées;185
+  19,1 à  21,0 tonnes;2013;Autres et non  déterminées;13
+  21,1 à 26,0 tonnes;2013;Autres et non  déterminées;124
+  26,1 tonnes et plus;2013;Autres et non  déterminées;369
+  Non déterminée;2013;Autres et non  déterminées;267
+  3,6 à 6,0 tonnes;2014;Autres et non  déterminées;136
+  6,1 à 10,9 tonnes;2014;Autres et non  déterminées;112
+  11,0 à 19,0 tonnes;2014;Autres et non  déterminées;167
+  19,1 à  21,0 tonnes;2014;Autres et non  déterminées;19
+  21,1 à 26,0 tonnes;2014;Autres et non  déterminées;116
+  26,1 tonnes et plus;2014;Autres et non  déterminées;352
+  Non déterminée;2014;Autres et non  déterminées;218
+  3,6 à 6,0 tonnes;2015;Autres et non  déterminées;112
+  6,1 à 10,9 tonnes;2015;Autres et non  déterminées;124
+  11,0 à 19,0 tonnes;2015;Autres et non  déterminées;180
+  19,1 à  21,0 tonnes;2015;Autres et non  déterminées;15
+  21,1 à 26,0 tonnes;2015;Autres et non  déterminées;117
+  26,1 tonnes et plus;2015;Autres et non  déterminées;335
+  Non déterminée;2015;Autres et non  déterminées;168
+  3,6 à 6,0 tonnes;2016;Autres et non  déterminées;106
+  6,1 à 10,9 tonnes;2016;Autres et non  déterminées;146
+  11,0 à 19,0 tonnes;2016;Autres et non  déterminées;182
+  19,1 à  21,0 tonnes;2016;Autres et non  déterminées;12
+  21,1 à 26,0 tonnes;2016;Autres et non  déterminées;118
+  26,1 tonnes et plus;2016;Autres et non  déterminées;315
+  Non déterminée;2016;Autres et non  déterminées;125
+  3,6 à 6,0 tonnes;2017;Autres et non  déterminées;92
+  6,1 à 10,9 tonnes;2017;Autres et non  déterminées;228
+  11,0 à 19,0 tonnes;2017;Autres et non  déterminées;216
+  19,1 à  21,0 tonnes;2017;Autres et non  déterminées;15
+  21,1 à 26,0 tonnes;2017;Autres et non  déterminées;141
+  26,1 tonnes et plus;2017;Autres et non  déterminées;291
+  Non déterminée;2017;Autres et non  déterminées;102
+  3,6 à 6,0 tonnes;2018;Autres et non  déterminées;83
+  6,1 à 10,9 tonnes;2018;Autres et non  déterminées;287
+  11,0 à 19,0 tonnes;2018;Autres et non  déterminées;360
+  19,1 à  21,0 tonnes;2018;Autres et non  déterminées;18
+  21,1 à 26,0 tonnes;2018;Autres et non  déterminées;251
+  26,1 tonnes et plus;2018;Autres et non  déterminées;250
+  Non déterminée;2018;Autres et non  déterminées;78
+  3,6 à 6,0 tonnes;2019;Autres et non  déterminées;85
+  6,1 à 10,9 tonnes;2019;Autres et non  déterminées;370
+  11,0 à 19,0 tonnes;2019;Autres et non  déterminées;512
+  19,1 à  21,0 tonnes;2019;Autres et non  déterminées;21
+  21,1 à 26,0 tonnes;2019;Autres et non  déterminées;377
+  26,1 tonnes et plus;2019;Autres et non  déterminées;216
+  Non déterminée;2019;Autres et non  déterminées;57

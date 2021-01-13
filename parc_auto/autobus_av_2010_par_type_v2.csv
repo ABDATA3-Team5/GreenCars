@@ -1,0 +1,145 @@
+Classes de places assises;Année;Fuel;Nb_véhicules
+ 10 à 19 places;2001;Essence (ordinaire et super);577
+ 20 à 29 places;2001;Essence (ordinaire et super);486
+ 30 à 39 places;2001;Essence (ordinaire et super);148
+ 40 places et +;2001;Essence (ordinaire et super);62
+ 10 à 19 places;2002;Essence (ordinaire et super);505
+ 20 à 29 places;2002;Essence (ordinaire et super);429
+ 30 à 39 places;2002;Essence (ordinaire et super);122
+ 40 places et +;2002;Essence (ordinaire et super);34
+ 10 à 19 places;2003;Essence (ordinaire et super);439
+ 20 à 29 places;2003;Essence (ordinaire et super);364
+ 30 à 39 places;2003;Essence (ordinaire et super);93
+ 40 places et +;2003;Essence (ordinaire et super);22
+ 10 à 19 places;2004;Essence (ordinaire et super);381
+ 20 à 29 places;2004;Essence (ordinaire et super);315
+ 30 à 39 places;2004;Essence (ordinaire et super);73
+ 40 places et +;2004;Essence (ordinaire et super);12
+ 10 à 19 places;2005;Essence (ordinaire et super);313
+ 20 à 29 places;2005;Essence (ordinaire et super);249
+ 30 à 39 places;2005;Essence (ordinaire et super);45
+ 40 places et +;2005;Essence (ordinaire et super);7
+ 10 à 19 places;2006;Essence (ordinaire et super);254
+ 20 à 29 places;2006;Essence (ordinaire et super);182
+ 30 à 39 places;2006;Essence (ordinaire et super);33
+ 40 places et +;2006;Essence (ordinaire et super);4
+ 10 à 19 places;2007;Essence (ordinaire et super);209
+ 20 à 29 places;2007;Essence (ordinaire et super);136
+ 30 à 39 places;2007;Essence (ordinaire et super);22
+ 40 places et +;2007;Essence (ordinaire et super);0
+ 10 à 19 places;2008;Essence (ordinaire et super);163
+ 20 à 29 places;2008;Essence (ordinaire et super);90
+ 30 à 39 places;2008;Essence (ordinaire et super);14
+ 40 places et +;2008;Essence (ordinaire et super);0
+ 10 à 19 places;2009;Essence (ordinaire et super);102
+ 20 à 29 places;2009;Essence (ordinaire et super);43
+ 30 à 39 places;2009;Essence (ordinaire et super);8
+ 40 places et +;2009;Essence (ordinaire et super);0
+ 10 à 19 places;2001;Gazole;8037
+ 20 à 29 places;2001;Gazole;18889
+ 30 à 39 places;2001;Gazole;10323
+ 40 places et +;2001;Gazole;46406
+ 10 à 19 places;2002;Gazole;8307
+ 20 à 29 places;2002;Gazole;18747
+ 30 à 39 places;2002;Gazole;9775
+ 40 places et +;2002;Gazole;47948
+ 10 à 19 places;2003;Gazole;8413
+ 20 à 29 places;2003;Gazole;18392
+ 30 à 39 places;2003;Gazole;7810
+ 40 places et +;2003;Gazole;49020
+ 10 à 19 places;2004;Gazole;8457
+ 20 à 29 places;2004;Gazole;18187
+ 30 à 39 places;2004;Gazole;7464
+ 40 places et +;2004;Gazole;50504
+ 10 à 19 places;2005;Gazole;8504
+ 20 à 29 places;2005;Gazole;18107
+ 30 à 39 places;2005;Gazole;7759
+ 40 places et +;2005;Gazole;51565
+ 10 à 19 places;2006;Gazole;8619
+ 20 à 29 places;2006;Gazole;17782
+ 30 à 39 places;2006;Gazole;7785
+ 40 places et +;2006;Gazole;53375
+ 10 à 19 places;2007;Gazole;8699
+ 20 à 29 places;2007;Gazole;17521
+ 30 à 39 places;2007;Gazole;7740
+ 40 places et +;2007;Gazole;55077
+ 10 à 19 places;2008;Gazole;8737
+ 20 à 29 places;2008;Gazole;17520
+ 30 à 39 places;2008;Gazole;7784
+ 40 places et +;2008;Gazole;57209
+ 10 à 19 places;2009;Gazole;8192
+ 20 à 29 places;2009;Gazole;16815
+ 30 à 39 places;2009;Gazole;7830
+ 40 places et +;2009;Gazole;57003
+ 10 à 19 places;2001;Gaz naturel véhicule (GNV);0
+ 20 à 29 places;2001;Gaz naturel véhicule (GNV);181
+ 30 à 39 places;2001;Gaz naturel véhicule (GNV);47
+ 40 places et +;2001;Gaz naturel véhicule (GNV);213
+ 10 à 19 places;2002;Gaz naturel véhicule (GNV);0
+ 20 à 29 places;2002;Gaz naturel véhicule (GNV);241
+ 30 à 39 places;2002;Gaz naturel véhicule (GNV);145
+ 40 places et +;2002;Gaz naturel véhicule (GNV);303
+ 10 à 19 places;2003;Gaz naturel véhicule (GNV);0
+ 20 à 29 places;2003;Gaz naturel véhicule (GNV);326
+ 30 à 39 places;2003;Gaz naturel véhicule (GNV);179
+ 40 places et +;2003;Gaz naturel véhicule (GNV);428
+ 10 à 19 places;2004;Gaz naturel véhicule (GNV);0
+ 20 à 29 places;2004;Gaz naturel véhicule (GNV);338
+ 30 à 39 places;2004;Gaz naturel véhicule (GNV);318
+ 40 places et +;2004;Gaz naturel véhicule (GNV);662
+ 10 à 19 places;2005;Gaz naturel véhicule (GNV);0
+ 20 à 29 places;2005;Gaz naturel véhicule (GNV);335
+ 30 à 39 places;2005;Gaz naturel véhicule (GNV);361
+ 40 places et +;2005;Gaz naturel véhicule (GNV);761
+ 10 à 19 places;2006;Gaz naturel véhicule (GNV);1
+ 20 à 29 places;2006;Gaz naturel véhicule (GNV);336
+ 30 à 39 places;2006;Gaz naturel véhicule (GNV);373
+ 40 places et +;2006;Gaz naturel véhicule (GNV);888
+ 10 à 19 places;2007;Gaz naturel véhicule (GNV);3
+ 20 à 29 places;2007;Gaz naturel véhicule (GNV);389
+ 30 à 39 places;2007;Gaz naturel véhicule (GNV);435
+ 40 places et +;2007;Gaz naturel véhicule (GNV);1112
+ 10 à 19 places;2008;Gaz naturel véhicule (GNV);12
+ 20 à 29 places;2008;Gaz naturel véhicule (GNV);438
+ 30 à 39 places;2008;Gaz naturel véhicule (GNV);453
+ 40 places et +;2008;Gaz naturel véhicule (GNV);1210
+ 10 à 19 places;2009;Gaz naturel véhicule (GNV);12
+ 20 à 29 places;2009;Gaz naturel véhicule (GNV);473
+ 30 à 39 places;2009;Gaz naturel véhicule (GNV);502
+ 40 places et +;2009;Gaz naturel véhicule (GNV);1232
+ 10 à 19 places;2001;Autres  et  non déterminées;59
+ 20 à 29 places;2001;Autres  et  non déterminées;167
+ 30 à 39 places;2001;Autres  et  non déterminées;44
+ 40 places et +;2001;Autres  et  non déterminées;110
+ 10 à 19 places;2002;Autres  et  non déterminées;88
+ 20 à 29 places;2002;Autres  et  non déterminées;141
+ 30 à 39 places;2002;Autres  et  non déterminées;50
+ 40 places et +;2002;Autres  et  non déterminées;119
+ 10 à 19 places;2003;Autres  et  non déterminées;95
+ 20 à 29 places;2003;Autres  et  non déterminées;119
+ 30 à 39 places;2003;Autres  et  non déterminées;46
+ 40 places et +;2003;Autres  et  non déterminées;130
+ 10 à 19 places;2004;Autres  et  non déterminées;124
+ 20 à 29 places;2004;Autres  et  non déterminées;103
+ 30 à 39 places;2004;Autres  et  non déterminées;46
+ 40 places et +;2004;Autres  et  non déterminées;117
+ 10 à 19 places;2005;Autres  et  non déterminées;149
+ 20 à 29 places;2005;Autres  et  non déterminées;103
+ 30 à 39 places;2005;Autres  et  non déterminées;46
+ 40 places et +;2005;Autres  et  non déterminées;113
+ 10 à 19 places;2006;Autres  et  non déterminées;161
+ 20 à 29 places;2006;Autres  et  non déterminées;106
+ 30 à 39 places;2006;Autres  et  non déterminées;46
+ 40 places et +;2006;Autres  et  non déterminées;110
+ 10 à 19 places;2007;Autres  et  non déterminées;192
+ 20 à 29 places;2007;Autres  et  non déterminées;163
+ 30 à 39 places;2007;Autres  et  non déterminées;106
+ 40 places et +;2007;Autres  et  non déterminées;348
+ 10 à 19 places;2008;Autres  et  non déterminées;184
+ 20 à 29 places;2008;Autres  et  non déterminées;153
+ 30 à 39 places;2008;Autres  et  non déterminées;124
+ 40 places et +;2008;Autres  et  non déterminées;301
+ 10 à 19 places;2009;Autres  et  non déterminées;165
+ 20 à 29 places;2009;Autres  et  non déterminées;146
+ 30 à 39 places;2009;Autres  et  non déterminées;111
+ 40 places et +;2009;Autres  et  non déterminées;240
