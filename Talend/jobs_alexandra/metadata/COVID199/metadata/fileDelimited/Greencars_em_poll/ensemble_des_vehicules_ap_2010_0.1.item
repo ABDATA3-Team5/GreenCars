@@ -3,11 +3,11 @@
   <TalendMetadata:DelimitedFileConnection xmi:id="_dsT9gFS0Eeu37ulzG_jksw" name="ensemble_des_vehicules_ap_2010" dataPackage="_dsT9gVS0Eeu37ulzG_jksw" Server="Localhost 127.0.0.1" FilePath="/home/fitec/Greencars/emissions_polluantes/ensemble_des_vehicules_ap_2010.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
   <orgomg.cwm.resource.record:RecordFile xmi:id="_dsT9gVS0Eeu37ulzG_jksw" name="default" dataManager="_dsT9gFS0Eeu37ulzG_jksw">
     <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_dsT9glS0Eeu37ulzG_jksw" id="_V8l4wFS0Eeu37ulzG_jksw" label="ensemble_des_vehicules_ap_2010">
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2f3aEFTdEeu37ulzG_jksw" label="Annee" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2f3aEVTdEeu37ulzG_jksw" label="Diesel" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2f3aElTdEeu37ulzG_jksw" label="Essence" length="5" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2f3aE1TdEeu37ulzG_jksw" label="Autres" length="4" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2f3aFFTdEeu37ulzG_jksw" label="Emissions" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iEb9AFW0EeuOJIGAqvPMoQ" label="Annee" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iEb9AVW0EeuOJIGAqvPMoQ" label="Diesel" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iEb9AlW0EeuOJIGAqvPMoQ" label="Essence" length="5" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iEb9A1W0EeuOJIGAqvPMoQ" label="Autres" length="4" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iEb9BFW0EeuOJIGAqvPMoQ" label="Polluant" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
     </ownedElement>
   </orgomg.cwm.resource.record:RecordFile>
 </xmi:XMI>
